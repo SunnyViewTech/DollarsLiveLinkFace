@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4786b6f0956b84dbac08f12d712289, type: 3}
+  m_Name: BlendShapeMappings Tongue
+  m_EditorClassIdentifier: 
+  m_Mappings:
+  - m_From: EyeBlinkLeft
+    m_To: 
+  - m_From: EyeLookDownLeft
+    m_To: 
+  - m_From: EyeLookInLeft
+    m_To: 
+  - m_From: EyeLookOutLeft
+    m_To: 
+  - m_From: EyeLookUpLeft
+    m_To: 
+  - m_From: EyeSquintLeft
+    m_To: 
+  - m_From: EyeWideLeft
+    m_To: 
+  - m_From: EyeBlinkRight
+    m_To: 
+  - m_From: EyeLookDownRight
+    m_To: 
+  - m_From: EyeLookInRight
+    m_To: 
+  - m_From: EyeLookOutRight
+    m_To: 
+  - m_From: EyeLookUpRight
+    m_To: 
+  - m_From: EyeSquintRight
+    m_To: 
+  - m_From: EyeWideRight
+    m_To: 
+  - m_From: JawForward
+    m_To: tongue_jawForward
+  - m_From: JawLeft
+    m_To: tongue_jawLeft
+  - m_From: JawRight
+    m_To: tongue_jawRight
+  - m_From: JawOpen
+    m_To: tongue_jawOpen
+  - m_From: MouthClose
+    m_To: 
+  - m_From: MouthFunnel
+    m_To: 
+  - m_From: MouthPucker
+    m_To: 
+  - m_From: MouthLeft
+    m_To: 
+  - m_From: MouthRight
+    m_To: 
+  - m_From: MouthSmileLeft
+    m_To: 
+  - m_From: MouthSmileRight
+    m_To: 
+  - m_From: MouthFrownLeft
+    m_To: 
+  - m_From: MouthFrownRight
+    m_To: 
+  - m_From: MouthDimpleLeft
+    m_To: 
+  - m_From: MouthDimpleRight
+    m_To: 
+  - m_From: MouthStretchLeft
+    m_To: 
+  - m_From: MouthStretchRight
+    m_To: 
+  - m_From: MouthRollLower
+    m_To: 
+  - m_From: MouthRollUpper
+    m_To: 
+  - m_From: MouthShrugLower
+    m_To: 
+  - m_From: MouthShrugUpper
+    m_To: 
+  - m_From: MouthPressLeft
+    m_To: 
+  - m_From: MouthPressRight
+    m_To: 
+  - m_From: MouthLowerDownLeft
+    m_To: 
+  - m_From: MouthLowerDownRight
+    m_To: 
+  - m_From: MouthUpperUpLeft
+    m_To: 
+  - m_From: MouthUpperUpRight
+    m_To: 
+  - m_From: BrowDownLeft
+    m_To: 
+  - m_From: BrowDownRight
+    m_To: 
+  - m_From: BrowInnerUp
+    m_To: 
+  - m_From: BrowOuterUpLeft
+    m_To: 
+  - m_From: BrowOuterUpRight
+    m_To: 
+  - m_From: CheekPuff
+    m_To: 
+  - m_From: CheekSquintLeft
+    m_To: 
+  - m_From: CheekSquintRight
+    m_To: 
+  - m_From: NoseSneerLeft
+    m_To: 
+  - m_From: NoseSneerRight
+    m_To: 
+  - m_From: TongueOut
+    m_To: tongue_tongueOut
+  - m_From: HeadYaw
+    m_To: 
+  - m_From: HeadPitch
+    m_To: 
+  - m_From: HeadRoll
+    m_To: 
+  - m_From: EyeYawLeft
+    m_To: 
+  - m_From: EyePitchLeft
+    m_To: 
+  - m_From: EyeRollLeft
+    m_To: 
+  - m_From: EyeYawRight
+    m_To: 
+  - m_From: EyePitchRight
+    m_To: 
+  - m_From: EyeRollRight
+    m_To: 
